@@ -1,5 +1,5 @@
 ## Management System
-본 프로젝트는 React 공부 목적으로 만들어진 고객 관리 시스템입니다.
+React 공부 목적의 고객 관리 시스템
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
